@@ -8,6 +8,8 @@ This repo contains the Pytorch implementation of our paper:
 <p align="left">
     <img src="images/teaser.jpg"  width="650"/>
 
+The code will be uploaded soon (~1 day). 
+
 ## Contents
 1. [Introduction](#introduction)
 0. [Key Results](#key-results)
@@ -68,14 +70,14 @@ We provide code to evaluate the representations for the semantic segmentation ta
 ### Segment Retrieval
 <p align="left">
     <img src="images/retrievals.jpg"  width="650"/>
-
-In order to obtain the results from the paper, run the publicly available [code](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation) with our weights as initialization of the model. You only need to adapt the amount of clusters, e.g. 5.
+    
+In order to obtain the results from the paper, run the publicly available [code](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation) with our weights as the initialization of the model. You only need to adapt the amount of clusters, e.g. 5.
     
 ### Video Instance Segmentation
 <p align="left">
     <img src="images/davis.jpg"  width="650"/>
     
-In order to obtain the results from the paper, run the publicly available [code](https://github.com/ajabri/videowalk) from Jabri et al. with our weights as initialization of the model.
+In order to obtain the results from the paper, run the publicly available [code](https://github.com/ajabri/videowalk) from Jabri et al. with our weights as the initialization of the model.
 
 ## Model Zoo
 Several pretrained models can be downloaded here. For a fair comparison, which takes the training duration into account, we refer to Figure 5 in the paper. More results can be found in Table 4 and Table 9.
