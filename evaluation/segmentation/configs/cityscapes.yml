@@ -1,0 +1,22 @@
+# Dataset
+train_db_name: cityscapes
+train_db_kwargs:
+   batch_size: 8
+val_db_name: cityscapes
+val_db_kwargs:
+   batch_size: 6
+num_workers: 4
+
+# Model
+backbone: 'resnet50'
+model_kwargs:
+  state_dict: /path/to/moco-state-dict/ 
+
+# Optimizer
+epochs: 150
+scheduler: poly
+
+optimizer: adam
+optimizer_kwargs:
+   lr: 0.0001
+   weight_decay: 0.0001
