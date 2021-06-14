@@ -1,7 +1,7 @@
 # Revisiting Contrastive Methods for Unsupervised Learning of Visual Representations
 
 This repo contains the Pytorch implementation of our paper:
-> [**Revisiting Contrastive Methods for UnsupervisedLearning of Visual Representations**]()
+> [**Revisiting Contrastive Methods for UnsupervisedLearning of Visual Representations**](https://arxiv.org/abs/2106.05967)
 >
 > [Wouter Van Gansbeke](https://twitter.com/WGansbeke), [Simon Vandenhende](https://twitter.com/svandenh1), [Stamatios Georgoulis](https://twitter.com/stam_g) and [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en).
 
@@ -95,7 +95,7 @@ If you find this repository useful for your research, please consider citing the
 @article{vangansbeke2021revisiting,
   title={Revisiting Contrastive Methods for Unsupervised Learning of Visual Representations},
   author={Van Gansbeke, Wouter and Vandenhende, Simon and Georgoulis, Stamatios and Van Gool, Luc},
-  journal={arxiv preprint arxiv:2106.ID},
+  journal={arxiv preprint arxiv:2106.05967},
   year={2021}
 }
 @inproceedings{he2019moco,
