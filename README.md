@@ -8,8 +8,6 @@ This repo contains the Pytorch implementation of our paper:
 <p align="left">
     <img src="images/teaser.jpg"  width="650"/>
 
-The code will be uploaded soon (~1 day). 
-
 ## Contents
 1. [Introduction](#introduction)
 0. [Key Results](#key-results)
