@@ -29,7 +29,7 @@ Contrastive self-supervised learning has outperformed supervised pretraining on 
 - __Dense Representations__: The multi-scale cropping strategy allows the model to learn spatially structured representations. This questions a recent trend that proposed additional losses at a denser level in the image. The representations can be used for semantic segment retrieval and video
 instance segmentation without any finetuning.
 - __Additional Invariances__: We impose additional invariances by exploring different data augmentations and nearest neighbors to boost the performance.
-- __Transfer Performance__: We observed that if a model obtains improvements for the downstream classification tasks, the same improvements are not guarenteed for other tasks (e.g. semantic segmentation) and vice versa. 
+- __Transfer Performance__: We observed that if a model obtains improvements for the downstream classification tasks, the same improvements are not guaranteed for other tasks (e.g. semantic segmentation) and vice versa. 
   
 ## Installation
 The Python code runs with recent Pytorch versions, e.g. 1.6. 
