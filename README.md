@@ -5,6 +5,9 @@ This repo contains the Pytorch implementation of our paper:
 >
 > [Wouter Van Gansbeke](https://twitter.com/WGansbeke), [Simon Vandenhende](https://twitter.com/svandenh1), [Stamatios Georgoulis](https://twitter.com/stam_g) and [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en).
 
+🆕 Accepted at __NeurIPS 2021__. 
+
+------------------------------------
 <p align="left">
     <img src="images/teaser.jpg"  width="650"/>
 
