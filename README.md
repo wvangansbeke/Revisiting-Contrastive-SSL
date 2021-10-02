@@ -95,10 +95,10 @@ This code is based on the [MoCo](https://github.com/facebookresearch/moco) repos
 If you find this repository useful for your research, please consider citing the following paper(s):
 
 ```bibtex
-@article{vangansbeke2021revisiting,
+@inproceedings{vangansbeke2021revisiting,
   title={Revisiting Contrastive Methods for Unsupervised Learning of Visual Representations},
   author={Van Gansbeke, Wouter and Vandenhende, Simon and Georgoulis, Stamatios and Van Gool, Luc},
-  journal={arxiv preprint arxiv:2106.05967},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2021}
 }
 @inproceedings{he2019moco,
